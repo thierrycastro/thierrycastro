@@ -6,8 +6,11 @@ I am a Software Testing and Quality Analyst with enthusiasm to learning more eve
 In my work I do Manual Tests, Exploratory Tests, Functional, UI Tests, etc.
 
 *🌱 Student of life :)
+
 *✍ I’m currently learning many things, like SQL and aprimorating in Cypress. I believe that everyday is a learning opportunity.
+
 *❤ Contributing to Open Source.
+
 *💻 Visit my Portfolio for more details about me.
 
 Skills: Manual Tests / BDD (Gherkin) / Functional Tests / Agile methodologies (Scrum and Kanban) / UI test automation: JavaScript / Cypress / Selenium WebDriver / Meetings and planning / Script and Test Scenarios / Evidence and Status report for testing / Bug identification and documentation
