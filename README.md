@@ -3,7 +3,7 @@
 
 <!--Night Owl image-->
 <div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+  <img align="right" width="40%" ![Descrição da imagem](https://raw.githubusercontent.com/thierrycastro/thierrycastro/main/alvo_bug.png)>
 </div>
 
 <!--Header Name-->
