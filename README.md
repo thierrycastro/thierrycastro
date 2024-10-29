@@ -62,7 +62,7 @@ Skills: Testes Manuais / BDD (Gherkin) / Testes Funcionais / Metodologias ágeis
   <img width="12" />
   <img src="https://www.svgrepo.com/show/353630/cypress.svg" height="30" alt="cypress logo"  />
   <img width="12" />
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg](https://www.svgrepo.com/show/191941/theatre-drama.svg)" height="30" alt="playwright logo"  />
+  <img src="https://www.svgrepo.com/show/191941/theatre-drama.svg" height="30" alt="playwright logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" height="30" alt="selenium logo"  />
   <img width="12" />
