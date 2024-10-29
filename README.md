@@ -41,7 +41,7 @@ Skills: Testes Manuais / BDD (Gherkin) / Testes Funcionais / Metodologias ágeis
 <div align="left">
   <div align="left">
   <a href="mailto:thierrygcastro@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=outlook&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=outlook&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="outlook logo"  />
   </a>
   <a href="https://www.linkedin.com/in/thierrygcastro/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
