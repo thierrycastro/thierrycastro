@@ -52,3 +52,21 @@ Skills: Testes Manuais / BDD (Gherkin) / Testes Funcionais / Metodologias ágeis
 </div>
 
 ###
+
+<h3 align="left">Ferramentas</h2>
+
+###
+
+<div align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/353630/cypress.svg" height="30" alt="cypress logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/75/Playwright_Logo.svg" height="30" alt="playwright logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Selenium_logo.svg" height="30" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/354463/trello.svg" height="30" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://www.svgrepo.com/show/353935/jira.svg" height="30" alt="jira logo"  />
+</div>
