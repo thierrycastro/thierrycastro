@@ -38,7 +38,7 @@ Skills: Testes Manuais / BDD (Gherkin) / Testes Funcionais / Metodologias ágeis
 
 ###
 
-<h3 align="left">Ferramentas</h2>
+<h3 align="left">Tools / Ferramentas</h2>
 
 ###
 
@@ -55,6 +55,10 @@ Skills: Testes Manuais / BDD (Gherkin) / Testes Funcionais / Metodologias ágeis
   <img width="12" />
   <img src="https://www.svgrepo.com/show/353935/jira.svg" height="30" alt="jira logo"  />
 </div>
+
+###
+
+<h3 align="left">Contact / Contato</h2>
 
 ###
 
