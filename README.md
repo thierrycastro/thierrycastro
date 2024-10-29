@@ -1,5 +1,5 @@
 <!--Banner-->
-![QA Tester](https://github.com/thierrycastro/thierrycastro/blob/main/banner%20github.png?raw=true)
+![QA Tester](https://github.com/thierrycastro/thierrycastro/blob/main/BANNER.png)
 
 <!--Night Owl image-->
 <div>
