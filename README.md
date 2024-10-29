@@ -34,3 +34,20 @@ No meu trabalho faço Testes Manuais, Testes Exploratórios, Funcionais, Testes 
 
 Skills: Testes Manuais / BDD (Gherkin) / Testes Funcionais / Metodologias ágeis (Scrum e Kanban) / Automação de testes de UI: JavaScript / Cypress / Selenium WebDriver / Reuniões e planejamentos / Script e Cenários de Testes / Evidência e Status report para de testes / Identificação e documentação de bugs
 
+----------------------------------------
+
+###
+
+<div align="left">
+  <a href="mailto:thierrygcastro@outlook.com" target="_blank">
+    <https://img.shields.io/static/v1?message=E-mail&logo=email&label=&color=lightgray&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="E-mail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/thierrygcastro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/+351931429440" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
