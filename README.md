@@ -38,21 +38,6 @@ Skills: Testes Manuais / BDD (Gherkin) / Testes Funcionais / Metodologias ágeis
 
 ###
 
-<div align="left">
-  <div align="left">
-  <a href="mailto:thierrygcastro@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=outlook&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="outlook logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/thierrygcastro/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/+351931429440" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
-
-###
-
 <h3 align="left">Ferramentas</h2>
 
 ###
@@ -70,3 +55,19 @@ Skills: Testes Manuais / BDD (Gherkin) / Testes Funcionais / Metodologias ágeis
   <img width="12" />
   <img src="https://www.svgrepo.com/show/353935/jira.svg" height="30" alt="jira logo"  />
 </div>
+
+###
+
+<div align="left">
+  <div align="left">
+  <a href="mailto:thierrygcastro@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Outlook&logo=outlook&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="outlook logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/thierrygcastro/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/+351931429440" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+</div>
+
