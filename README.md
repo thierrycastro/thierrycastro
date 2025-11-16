@@ -20,7 +20,7 @@ In my work I do Manual Tests, Exploratory Tests, Functional, UI Tests, etc.
 - ❤ Contributing to Open Source.
 - 💻 Visit my Portfolio for more details about me.
 
-Skills: Manual Tests / BDD (Gherkin) / Functional Tests / Agile methodologies (Scrum and Kanban) / UI test automation: JavaScript / Cypress / Selenium WebDriver / Meetings and planning / Script and Test Scenarios / Evidence and Status report for testing / Bug identification and documentation
+Skills: Manual Tests / BDD (Gherkin) / Functional Tests / Agile methodologies (Scrum and Kanban) / UI test automation: JavaScript / Playwright / Cypress / Selenium WebDriver / Meetings and planning / Script and Test Scenarios / Evidence and Status report for testing / Bug identification and documentation
 <!--End Intro-->
 
 ----------------------------------------
@@ -32,7 +32,7 @@ No meu trabalho faço Testes Manuais, Testes Exploratórios, Funcionais, Testes 
 - ❤ Contribuindo para código aberto.
 - 💻 Visite meu Portfólio para mais detalhes sobre mim.
 
-Skills: Testes Manuais / BDD (Gherkin) / Testes Funcionais / Metodologias ágeis (Scrum e Kanban) / Automação de testes de UI: JavaScript / Cypress / Selenium WebDriver / Reuniões e planejamentos / Script e Cenários de Testes / Evidência e Status report para de testes / Identificação e documentação de bugs
+Skills: Testes Manuais / BDD (Gherkin) / Testes Funcionais / Metodologias ágeis (Scrum e Kanban) / Automação de testes de UI: JavaScript / Playwright / Cypress / Selenium WebDriver / Reuniões e planejamentos / Script e Cenários de Testes / Evidência e Status report para de testes / Identificação e documentação de bugs
 
 ----------------------------------------
 
