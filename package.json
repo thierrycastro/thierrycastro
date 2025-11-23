@@ -1,0 +1,15 @@
+
+{
+  "name": "aula01",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "cucumber-js --require \"features/step_definitions/**/*.js\" \"features/**/*.feature\""
+  },
+  "dependencies": {
+    "@playwright/test": "^1.45.0"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.2.0"
+  }
+}
+
